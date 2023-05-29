@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mr-musk-codes
+- 👋 Hi, I’m @bharath
 - 👀 I’m interested in app development
 - 🌱 I’m currently learning ruby on rails
 - 💞️ I’m looking to collaborate on RoR
